@@ -28,6 +28,5 @@ Program ditulis dalam bahasa **Java** dan dijalankan melalui terminal.
 
 # Pembuat
 
-Farrel Anizar Razzani
-Universitas Muhammadiyah Malang
-Mata Kuliah: Pemrograman Lanjut
+Farrel Anizar Razzani | Universitas Muhammadiyah Malang
+
